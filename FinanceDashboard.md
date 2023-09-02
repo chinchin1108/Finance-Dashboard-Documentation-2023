@@ -18,4 +18,20 @@ Information Displayed:
 - Expenditure, Saving, Income and Investment for selected Month
 - Defaults to Current
 
+Uses:
+- To provide a snapshot on how much I have spend/save in this month
+
 <img width="1633" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/c99fda88-3aa6-4346-b8e1-9e54dc953641">
+
+## Third Page ##
+
+Full Transaction
+
+Information Displayed:
+- List of transactions 
+
+<img width="1635" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/8fc37513-b62b-4b06-a9cc-636f6ab81c72">
+
+## Fourth Page ##
+
+## Fifth Page ##
