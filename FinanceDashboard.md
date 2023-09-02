@@ -11,3 +11,11 @@ General Information of the dashboard
 <img width="1635" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/da13d654-40c4-4f6c-8079-fb60cbc0deb0">
 
 ## Second Page ##
+
+Summary of the Month
+
+Information Displayed:
+- Expenditure, Saving, Income and Investment for selected Month
+- Defaults to Current
+
+<img width="1633" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/c99fda88-3aa6-4346-b8e1-9e54dc953641">
