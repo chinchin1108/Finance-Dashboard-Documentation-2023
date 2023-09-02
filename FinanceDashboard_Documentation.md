@@ -1,6 +1,6 @@
 # Information #
 
-## Links ## 
+## Links (Ctr Click) ## 
 
 Finance Dashboard Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjU1ZTA5NDctNjU0Yi00MzRkLTkyMmEtZjdmY2E0NGZkNzQ5IiwidCI6ImVlYTBlYTdkLTExZDUtNDVjZS1iYmFhLTFiMDQ1ZGIxMzQ5MiIsImMiOjZ9&pageName=ReportSection364657a4c1d069afc2b0&fbclid=IwAR1oSiUEBt5vn5GDu39CITu918eHAykuUYeW6m9lk3v1qhOkR2HyaaUUWsM" target="blank">Power BI Report</a>
 
