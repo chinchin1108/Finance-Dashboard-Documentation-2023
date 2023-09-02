@@ -2,6 +2,8 @@
 
 ## Power BI Link ## 
 
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+
 https://app.powerbi.com/view?r=eyJrIjoiMjU1ZTA5NDctNjU0Yi00MzRkLTkyMmEtZjdmY2E0NGZkNzQ5IiwidCI6ImVlYTBlYTdkLTExZDUtNDVjZS1iYmFhLTFiMDQ1ZGIxMzQ5MiIsImMiOjZ9&pageName=ReportSection364657a4c1d069afc2b0&fbclid=IwAR1oSiUEBt5vn5GDu39CITu918eHAykuUYeW6m9lk3v1qhOkR2HyaaUUWsM
 
 ## First Page ##
