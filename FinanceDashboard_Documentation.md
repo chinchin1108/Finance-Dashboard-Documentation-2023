@@ -37,14 +37,15 @@ Information Displayed:
 - List of transactions made
 
 Uses:
-- When I find something abnormal in my spendings 
+- When I find something abnormal in my spendings
+- Auditing purpose
 
 <img width="760" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/7e072d65-75c2-4d09-882d-a968e0698c02">
 
 
 ## Fourth and Fifth Page ##
 
-- Summary of spending and income habits
+- Summary of spending and income habits throughout this year so far.
 - Provides a big picture
 
 <img width="765" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/671bfab2-deb9-4c4d-8246-abae1c01c0a8">
