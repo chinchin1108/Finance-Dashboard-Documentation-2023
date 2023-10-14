@@ -43,9 +43,9 @@ Information Displayed:
 - Summary of spending and income habits
 - Provides a big picture
 
-  <img width="765" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/671bfab2-deb9-4c4d-8246-abae1c01c0a8">
+<img width="765" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/671bfab2-deb9-4c4d-8246-abae1c01c0a8">
 
-  <img width="765" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/2f62a43d-75bb-4202-b8ee-120620cce91d">
+<img width="765" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/2f62a43d-75bb-4202-b8ee-120620cce91d">
 
 
 
