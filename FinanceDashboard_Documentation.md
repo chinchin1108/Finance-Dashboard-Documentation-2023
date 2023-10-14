@@ -1,5 +1,7 @@
 # Information #
 
+This report is inspired by: https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Finance-Dashboards-Monthly-Finance-Tracker/m-p/2824148
+
 ## Links (Ctr Click) ## 
 
 Finance Dashboard Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiNzY3N2Q3MGUtMWE2MS00NTg3LWFjY2ItNzk0MGEzZTQxNWM4IiwidCI6ImVlYTBlYTdkLTExZDUtNDVjZS1iYmFhLTFiMDQ1ZGIxMzQ5MiIsImMiOjZ9&pageName=ReportSection364657a4c1d069afc2b0" target="blank">Power BI Report</a>
