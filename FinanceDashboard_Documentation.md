@@ -40,5 +40,5 @@ Information Displayed:
 ## Fourth and Fifth Page ##
 
 - Summary of spending and income habits
-- More of a big picture
+- Provides a big picture
 
