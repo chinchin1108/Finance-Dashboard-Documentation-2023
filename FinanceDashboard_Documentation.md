@@ -25,7 +25,7 @@ Information Displayed:
 - Defaults to Current
 
 Uses:
-- To provide a snapshot on how much I have spend/save in this month
+- To provide a snapshot on how much I spend/save in this month
 
 <img width="1633" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/c99fda88-3aa6-4346-b8e1-9e54dc953641">
 
@@ -35,7 +35,9 @@ Full Transaction
 
 Information Displayed:
 - List of transactions made
-- Purpose when I find something abnormal in my spendings 
+
+Uses:
+- When I find something abnormal in my spendings 
 
 <img width="760" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/7e072d65-75c2-4d09-882d-a968e0698c02">
 
