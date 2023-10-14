@@ -30,10 +30,13 @@ Uses:
 Full Transaction
 
 Information Displayed:
-- List of transactions 
+- List of transactions made
+- Purpose when I find something abnormal in my spendings 
 
 <img width="1635" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/8fc37513-b62b-4b06-a9cc-636f6ab81c72">
 
-## Fourth Page ##
+## Fourth and Fifth Page ##
 
-## Fifth Page ##
+- Summary of spending and income habits
+- More of a big picture
+
