@@ -2,7 +2,7 @@
 
 ## Links (Ctr Click) ## 
 
-Finance Dashboard Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjU1ZTA5NDctNjU0Yi00MzRkLTkyMmEtZjdmY2E0NGZkNzQ5IiwidCI6ImVlYTBlYTdkLTExZDUtNDVjZS1iYmFhLTFiMDQ1ZGIxMzQ5MiIsImMiOjZ9&pageName=ReportSection364657a4c1d069afc2b0&fbclid=IwAR1oSiUEBt5vn5GDu39CITu918eHAykuUYeW6m9lk3v1qhOkR2HyaaUUWsM" target="blank">Power BI Report</a>
+Finance Dashboard Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiNzY3N2Q3MGUtMWE2MS00NTg3LWFjY2ItNzk0MGEzZTQxNWM4IiwidCI6ImVlYTBlYTdkLTExZDUtNDVjZS1iYmFhLTFiMDQ1ZGIxMzQ5MiIsImMiOjZ9&pageName=ReportSection364657a4c1d069afc2b0" target="blank">Power BI Report</a>
 
 Data Source (Google Sheet):  <a href="https://docs.google.com/spreadsheets/d/1qVKNOZYhPv32HiLtAn4WC_q_xG2m45y1v1WplLeRxjk/edit?usp=sharing" target="blank">Google Sheet Data</a>
 
