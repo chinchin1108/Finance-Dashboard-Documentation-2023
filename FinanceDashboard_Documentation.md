@@ -10,7 +10,7 @@ Finance Dashboard Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiNzY3N2Q3
 
 Data Source (Google Sheet):  <a href="https://docs.google.com/spreadsheets/d/1qVKNOZYhPv32HiLtAn4WC_q_xG2m45y1v1WplLeRxjk/edit?usp=sharing" target="blank">Google Sheet Data</a>
 
-Actual pbix file: <a href="https://github.com/chinchin1108/Finance-Dashboard-Documentation/blob/main/Dashboard-Finance.pbix" target="blank"> Pbix file </a>
+Actual pbix file: <a href="PK" target="blank"> Pbix file </a>
 
 ## First Page ##
 
