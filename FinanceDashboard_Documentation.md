@@ -10,7 +10,7 @@ Data Source (Google Sheet):  <a href="https://docs.google.com/spreadsheets/d/1qV
 
 ## First Page ##
 
-General Information of the dashboard
+General Information of the dashboard and disclaimers
 
 <img width="1635" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/da13d654-40c4-4f6c-8079-fb60cbc0deb0">
 
@@ -35,10 +35,17 @@ Information Displayed:
 - List of transactions made
 - Purpose when I find something abnormal in my spendings 
 
-<img width="1635" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/8fc37513-b62b-4b06-a9cc-636f6ab81c72">
+<img width="760" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/7e072d65-75c2-4d09-882d-a968e0698c02">
+
 
 ## Fourth and Fifth Page ##
 
 - Summary of spending and income habits
 - Provides a big picture
+
+  <img width="765" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/671bfab2-deb9-4c4d-8246-abae1c01c0a8">
+
+  <img width="765" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/2f62a43d-75bb-4202-b8ee-120620cce91d">
+
+
 
