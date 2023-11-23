@@ -49,6 +49,7 @@ Uses:
 
 - Summary of spending and income habits throughout this year so far.
 - Provides a big picture
+- Hover over the chart to see the specifics.
 
 <img width="765" alt="image" src="https://github.com/chinchin1108/Finance-Dashboard-Documentation/assets/94827147/671bfab2-deb9-4c4d-8246-abae1c01c0a8">
 
