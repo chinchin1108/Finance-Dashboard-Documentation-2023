@@ -1,10 +1,8 @@
 # Information #
 
-NOTE: No longer used as of January 2024. In development to implement Power Apps input.
-
 ## Inspiration ## 
 
-This report is inspired by: https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Finance-Dashboards-Monthly-Finance-Tracker/m-p/2824148
+This report is inspired by (not defunct): https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Finance-Dashboards-Monthly-Finance-Tracker/m-p/2824148
 
 ## Links (Ctr Click) ## 
 
